@@ -27,7 +27,7 @@ public class SwaggerConfiguration {
 	}
 	private ApiInfo apiInfo() {
 		return new ApiInfoBuilder()
-				.title("To do list - youtube")
+				.title("To do list")
 				.description("Aplicacao gerenciadora de tarefas")
 				.version("1.0.0")
 				.build();
