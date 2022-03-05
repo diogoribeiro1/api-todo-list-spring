@@ -1,5 +1,5 @@
-# to-do-list-spring
-To do list com CRUD completo em java e Spring boot.
+# api-to-do-list-spring
+Api to do list com CRUD completo em java e Spring boot.
 
 <h3><li>Tecnologias usadas</li></h3>
     Java 11<br>
