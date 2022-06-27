@@ -3,8 +3,8 @@ Api todo list com CRUD completo em java e Spring boot.
 
 <h3><li>Tecnologias usadas</li></h3>
     Java 11<br>
-    Spring<br>
-    Spring Fox(Swagger)<br>
+    Spring Boot<br>
+    Swagger<br>
     JPA<br>
     Hibernate<br>
     H2 Database<br>
