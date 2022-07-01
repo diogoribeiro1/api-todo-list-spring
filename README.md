@@ -1,5 +1,5 @@
 # api-to-do-list-spring
-Api de todo list (lista de tarefas) com Swagger e CRUD completo em java e Spring boot.
+Api rest de todo list (lista de tarefas) com Swagger e CRUD completo em java e Spring boot.
 
 <h3><li>Tecnologias usadas</li></h3>
     Java 11<br>
